@@ -1,4 +1,4 @@
-# Gamified AI Pronunciation Coach
+# 🎤 Gamified AI Pronunciation Coach
 A web-based interactive platform that helps users improve their English pronunciation using Whisper AI and gamified learning techniques.
 The system evaluates spoken input, provides real-time feedback, and enhances user engagement through scoring, XP rewards, and leveling.
 
@@ -19,19 +19,19 @@ The system uses Whisper AI for robust speech-to-text processing and a Flask back
 
 ## Features
 
-- Utilizes Whisper AI for accurate speech transcription.
+- 🎧 Utilizes Whisper AI for accurate speech transcription.
 
-- Real-time pronunciation scoring and feedback.
+- 🗣️ Real-time pronunciation scoring and feedback.
 
-- Gamified user experience with XP, levels, and score progression.
+- 🎮 Gamified user experience with XP, levels, and score progression.
 
-- Lightweight Flask-based backend for API handling.
+- ⚙️ Lightweight Flask-based backend for API handling.
 
-- Browser-based audio recording using JavaScript.
+- 🎙️ Browser-based audio recording using JavaScript.
 
-- Modular and scalable structure.
+- 🧩 Modular and scalable structure.
 
-- Easy to deploy and extend for academic or personal use.
+- 🚀 Easy to deploy and extend for academic or personal use.
 
 ## Requirements
 ### Software Requirements
@@ -56,11 +56,40 @@ The system uses Whisper AI for robust speech-to-text processing and a Flask back
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Login & SignUp Pages
 
+<img width="1897" height="961" alt="Screenshot 2025-11-30 115955" src="https://github.com/user-attachments/assets/2205bc76-c7fb-471d-82e1-572a2b09ff08" />
 
-#### Output2 - Name of the output
+<img width="1895" height="959" alt="Screenshot 2025-11-30 120019" src="https://github.com/user-attachments/assets/a94a088a-08ae-44cd-8c8b-e25169c692c9" />
+
+#### Output2 - Home Page
+
+<img width="1895" height="927" alt="Screenshot 2025-11-30 120104" src="https://github.com/user-attachments/assets/c6ef2bbc-b887-4601-84fc-1167f56eceac" />
+
+<img width="1892" height="937" alt="Screenshot 2025-11-30 120258" src="https://github.com/user-attachments/assets/ef3d8710-cc29-4518-abb8-527fa154ae28" />
+
+#### Output3 - Challenges Page
+
+<img width="1893" height="911" alt="Screenshot 2025-11-30 120317" src="https://github.com/user-attachments/assets/235409fe-55a4-4c43-afae-42e3a4a07cad" />
+
+<img width="1890" height="857" alt="Screenshot 2025-11-30 120723" src="https://github.com/user-attachments/assets/21247d71-ee39-46b4-871c-2f13b986bbcd" />
+
+<img width="1895" height="946" alt="Screenshot 2025-11-30 120737" src="https://github.com/user-attachments/assets/f15b59d0-bb2e-4500-8d52-45d9f017943f" />
+
+#### Output4 - Leaderboard Page
+
+<img width="1893" height="941" alt="Screenshot 2025-11-30 121202" src="https://github.com/user-attachments/assets/3612291c-3702-4e35-888b-da2b067023cc" />
+
+#### Output5 - History Page
+
+<img width="1892" height="962" alt="Screenshot 2025-11-30 121041" src="https://github.com/user-attachments/assets/0c1672cc-b47a-4881-bb69-9d6b5620cd31" />
+
+<img width="1894" height="962" alt="Screenshot 2025-11-30 120856" src="https://github.com/user-attachments/assets/2e2a3eb4-d67f-4471-95e3-1a10dcb6c248" />
+
+#### Output6 - Profile Page
+
+<img width="1895" height="955" alt="Screenshot 2025-11-30 121228" src="https://github.com/user-attachments/assets/e950c0e1-a89d-447b-b869-17b45f6e3c3d" />
+
 
 ## Results and Impact
 
