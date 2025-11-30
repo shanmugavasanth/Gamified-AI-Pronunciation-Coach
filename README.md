@@ -34,7 +34,6 @@ The system uses Whisper AI for robust speech-to-text processing and a Flask back
 - 🚀 Easy to deploy and extend for academic or personal use.
 
 ## Requirements
-### Software Requirements
 
 - Operating System: Windows 10 / Linux (64-bit recommended)
 
@@ -51,7 +50,8 @@ The system uses Whisper AI for robust speech-to-text processing and a Flask back
 - Version Control: Git & GitHub
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+
+<img width="1536" height="1024" alt="ChatGPT Image Nov 30, 2025, 12_38_01 PM" src="https://github.com/user-attachments/assets/f9f0dcb8-e938-4d78-93ec-90c97c53a940" />
 
 
 ## Output
